@@ -14,7 +14,7 @@ pip2 install mechanize
 <br>
 pip2 install requests
 <br>
-git clone https://github.com/KANG-BADRU/KANGHACK
+git clone https://github.com/Aryaalfahrezi010/HEKFB
 <br>
 ls
 <br>

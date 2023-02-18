@@ -57,7 +57,7 @@ vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 
 
-def login():
+def login():Nanda
     os.system('clear')
     try:
         toket = open('login.txt', 'r')
